@@ -1,0 +1,42 @@
+body{
+    background-color:#fff4ce;
+    font-family: 'Times New Roman', Times, serif;
+    }
+.planeta{
+    width: 30%;
+    border-radius: 300px;
+    display: flex;
+    margin-left: 450px;
+    
+}
+
+
+.title-astrobiologia{
+    font-size: 40px;
+
+}
+
+.title-web{
+    color: #F08080;
+    font-size: 60px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    letter-spacing: 20px;
+}
+
+.title-misiones{
+    color: #FFB5A7;
+}
+
+.title-estrellas{
+    color: #b5838d;
+}
+.title-universo{
+    font-size: 40px;
+}
+.estrellas{
+    font-size: 40px;
+}
+
+
+
